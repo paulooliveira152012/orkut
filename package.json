@@ -1,0 +1,17 @@
+{
+  "name": "orkut",
+  "version": "1.0.0",
+  "description": "## Project Description Orkut is a social media project ainming to replicate the former orkut. As a social media platform, users are able to: - Create an account and log in using a unique username and password - Publish images, blogns and external links - Find and friend other users in the platform  - (if friends with) text other users in a private chatroom - And much more",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
